@@ -1,2 +1,5 @@
 test
+<<<<<<< HEAD
 blargh
+=======
+>>>>>>> 106c669... master: blargh
