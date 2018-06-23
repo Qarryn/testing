@@ -1,1 +1,8 @@
 test
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+blargh
+=======
+>>>>>>> 106c669... master: blargh
+>>>>>>> 7ffd4bb... master: blargh
